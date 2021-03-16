@@ -108,7 +108,7 @@ function Header() {
 				<div className="logo-box1">
 					<Link to={'/'}>
 						<img
-							src="https://trello-attachments.s3.amazonaws.com/5f9c477be3155041e06d7eb9/290x108/01c26ecb5e4dc99015f6c4fb1b11d4f1/Logo_completo_vidama.jpg"
+							src="https://trello-attachments.s3.amazonaws.com/60509284c88a9b8f9933dcb3/290x108/cb283c7a32a1a1cfb932a99cc80d45c8/logo-completo-vidama.jpg"
 							className="logo-vidama"
 							alt=""
 						/>
@@ -117,7 +117,7 @@ function Header() {
 				<div className="logo-box2">
 					<Link to={'/'}>
 						<img
-							src="https://trello-attachments.s3.amazonaws.com/5f9c477be3155041e06d7eb9/101x107/dec4f8b56a7ce0ed58a8edb8f1138267/Logo_small_vidama.jpg"
+							src="https://trello-attachments.s3.amazonaws.com/60509284c88a9b8f9933dcb3/101x107/73ab43f93e7e535e5cc58d3480957407/logo-small-vidama.jpg"
 							className="logo-vidama"
 							alt=""
 						/>
@@ -206,13 +206,3 @@ function Header() {
 }
 export default Header;
 
-{
-	/* <div className="user-photo-or-icon">
-	<span
-		class="material-icons user-login"
-		onClick={() => showOrHideLoginDisplay('visible', 'hidden')}
-	>
-		account_circle
-	</span>
-</div>; */
-}

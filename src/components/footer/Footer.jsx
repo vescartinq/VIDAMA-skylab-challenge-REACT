@@ -18,7 +18,7 @@ function Footer() {
 				<img
 					className="vidama-logo"
 					alt="Vidama logo"
-					src="https://trello-attachments.s3.amazonaws.com/5f9c477be3155041e06d7eb9/290x108/01c26ecb5e4dc99015f6c4fb1b11d4f1/Logo_completo_vidama.jpg"
+					src="https://trello-attachments.s3.amazonaws.com/60509284c88a9b8f9933dcb3/290x108/cb283c7a32a1a1cfb932a99cc80d45c8/logo-completo-vidama.jpg"
 				/>
 			</Link>
 			<div className="contact-info">
