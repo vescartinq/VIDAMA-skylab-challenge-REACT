@@ -17,21 +17,9 @@ ReactDOM.render(
       <Header />
       <Navbar />
       <Switch>
-        <Route
-          path="VIDAMA-skylab-challenge-REACT/"
-          exact
-          component={Dashboard}
-        />
-        <Route
-          path="VIDAMA-skylab-challenge-REACT/detail/:bookId"
-          exact
-          component={Detail}
-        />
-        <Route
-          path="VIDAMA-skylab-challenge-REACT/userprofile/:userId"
-          exact
-          component={UserProfile}
-        />
+        <Route path="/" exact component={Dashboard} />
+        <Route path="/detail/:bookId" exact component={Detail} />
+        <Route path="/userprofile/:userId" exact component={UserProfile} />
       </Switch>
       <Footer />
     </BrowserRouter>
