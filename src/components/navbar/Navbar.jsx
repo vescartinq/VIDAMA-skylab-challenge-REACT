@@ -203,7 +203,7 @@ function Navbar() {
 					<div className="logo-box2-fixed">
 						<Link to={'/'}>
 							<img
-								src="https://trello-attachments.s3.amazonaws.com/5f9c477be3155041e06d7eb9/101x107/dec4f8b56a7ce0ed58a8edb8f1138267/Logo_small_vidama.jpg"
+								src="https://trello-attachments.s3.amazonaws.com/60509284c88a9b8f9933dcb3/101x107/73ab43f93e7e535e5cc58d3480957407/logo-small-vidama.jpg"
 								className="logo-vidama-fixed small-logo"
 								alt=""
 							/>
