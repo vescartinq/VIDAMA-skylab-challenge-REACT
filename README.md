@@ -2,10 +2,10 @@
 
 ---
 
-<img src="img/vidama1.jpg" width="200" height="200" >
-<img src="img/vidama2.jpg" width="400" height="200" >
-<img src="img/vidama3.jpg" width="400" height="200" >
-<img src="img/vidama4.jpg" width="400" height="200" >
+<img src="src/img/vidama1.jpg" width="400" height="200" >
+<img src="src/img/vidama2.jpg" width="400" height="200" >
+<img src="src/img/vidama3.jpg" width="400" height="200" >
+<img src="src/img/vidama4.jpg" width="400" height="200" >
 
 ## Table of Contents
 
