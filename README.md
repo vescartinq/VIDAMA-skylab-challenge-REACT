@@ -11,8 +11,7 @@
 
 1. [General Info](#general-info)
 2. [Web Example](#web-example)
-3. [Technologies](#technologies)
-4. [Installation](#installation)
+3. [Installation](#installation)
 
 ---
 
@@ -29,22 +28,8 @@ You can see the app working here :
 
 - https://vidama.herokuapp.com/
 
-## 3. Technologies
 
-A list of technologies used within the project:
-
-- [REACT]: Version 17.0.1
-- [REACT-REDUX]: Version 7.2.2
-- [CHARTJS]: Version 2.9.4
-- [REACT-GOOGLE-MAPS]: Version 9.4.5
-- [ESLINT]: Version 7.14.0
-- [FIREBASE]: Version 8.1.2
-- [AXIOS]: Version 0.21.0
-- [EXPRESS]: Version 4.17.1
-- [MONGOOSE]: Version 5.10.17
-- [JEST]: Version 26.6.3
-
-## 4. Installation
+## 3. Installation
 
 A little intro about the installation:
 
