@@ -12,19 +12,31 @@ import reportWebVitals from './reportWebVitals';
 import './index.css';
 
 ReactDOM.render(
-	<React.StrictMode>
-		<BrowserRouter>
-			<Header />
-			<Navbar />
-			<Switch>
-				<Route path="/" exact component={Dashboard} />
-				<Route path="/detail/:bookId" exact component={Detail} />
-				<Route path="/userprofile/:userId" exact component={UserProfile} />
-			</Switch>
-			<Footer />
-		</BrowserRouter>
-	</React.StrictMode>,
-	document.getElementById('root')
+  <React.StrictMode>
+    <BrowserRouter>
+      <Header />
+      <Navbar />
+      <Switch>
+        <Route
+          path="VIDAMA-skylab-challenge-REACT/"
+          exact
+          component={Dashboard}
+        />
+        <Route
+          path="VIDAMA-skylab-challenge-REACT/detail/:bookId"
+          exact
+          component={Detail}
+        />
+        <Route
+          path="VIDAMA-skylab-challenge-REACT/userprofile/:userId"
+          exact
+          component={UserProfile}
+        />
+      </Switch>
+      <Footer />
+    </BrowserRouter>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
 
 reportWebVitals();
